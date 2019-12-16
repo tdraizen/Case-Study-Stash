@@ -1,2 +1,4 @@
-# Case-Study-Stash
-Homework Assignment Due Date Dec 21
+## STASH INVEST ##
+Changing financial literacy one investor at a time
+
+![Stashlogo](stashlogo.jpg)
